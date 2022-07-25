@@ -1,0 +1,13 @@
+Fiona==1.8.21
+geopandas==0.10.2
+pandas==1.4.2
+numpy==1.21.5
+folium==0.12.1
+ipywidgets==7.6.5
+awshelpers==0.0.48
+aws-helpers==0.61
+python-dotenv==0.20.0
+streamlit==1.10.0
+streamlit-folium==0.6.13
+Jinja2==3.0.1
+conda==4.3.13
